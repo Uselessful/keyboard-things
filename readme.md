@@ -1,0 +1,1 @@
+I take zero responsibility for the designs published here. Most of them weren't even implemented as prototypes. Use at your own risk.
