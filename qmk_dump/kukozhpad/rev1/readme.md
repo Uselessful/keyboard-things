@@ -1,12 +1,10 @@
 # kukozhpad
 
-![kukozhpad](imgur.com image replace me!)
+![kukozhpad](https://i.imgur.com/goE4p98.jpg)
 
-A short description of the keyboard/project
-
-* Keyboard Maintainer: [%YOUR_NAME%](https://github.com/yourusername)
-* Hardware Supported: The PCBs, controllers supported
-* Hardware Availability: Links to where you can find this hardware
+* Keyboard Maintainer: [Uselessful](https://github.com/Uselessful)
+* Hardware Supported: Kukozhpad PCB, Pro Micro and its drop-in replacements
+* Hardware Availability: https://github.com/Uselessful/kukozhpad
 
 Make example for this keyboard (after setting up your build environment):
 
