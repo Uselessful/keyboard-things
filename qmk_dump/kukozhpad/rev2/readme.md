@@ -7,6 +7,8 @@
 * Hardware Availability: Trash bin
 
 To make this work you have to put contents of this folder directly into qmk_firmware/keyboards/kukozhpad
+
+
 Make example for this keyboard (after setting up your build environment):
 
     make kukozhpad:default
