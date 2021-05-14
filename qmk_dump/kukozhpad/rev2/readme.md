@@ -2,12 +2,11 @@
 
 ![kukozhpad](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
-
 * Keyboard Maintainer: [Uselessful](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: ProMicro and drop-in replacements
+* Hardware Availability: Trash bin
 
+To make this work you have to put contents of this folder directly into qmk_firmware/keyboards/kukozhpad
 Make example for this keyboard (after setting up your build environment):
 
     make kukozhpad:default
