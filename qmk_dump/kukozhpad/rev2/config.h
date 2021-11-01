@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER   0x0001
 #define MANUFACTURER Uselessful
 #define PRODUCT      kukozhpad2
-#define DESCRIPTION In CringeCult we trust
+#define DESCRIPTION  In CringeCult we trust
 
 /* key matrix size */
 #define MATRIX_ROWS 4
@@ -41,8 +41,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
  */
-#define MATRIX_ROW_PINS { B2, B6, D4, C6, }
-#define MATRIX_COL_PINS { F5, F6, F7, B1, }
+#define MATRIX_ROW_PINS { B2, B6, D4, C6 }
+#define MATRIX_COL_PINS { F5, F6, F7, B1 }
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL */
@@ -51,6 +51,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define LED_NUM_LOCK_PIN D7
 #define LED_CAPS_LOCK_PIN E6
 #define LED_SCROLL_LOCK_PIN B4
+
+#define USB_POLLING_INTERVAL_MS 1
+#define QMK_KEYS_PER_SCAN 4
 
 #define B5_AUDIO
 
