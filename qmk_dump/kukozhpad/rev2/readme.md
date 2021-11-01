@@ -1,5 +1,5 @@
 # kukozhpad
-
+TO BUILD THE FIRMWARE SUCCESFULLY: PUT CONTENTS OF kukozhpad/rev2 INTO keyboards/kukozhpad AND BUILD AS -kb kukozhpad -km default
 ![kukozhpad](imgur.com image replace me!)
 
 * Keyboard Maintainer: [Uselessful](https://github.com/yourusername)
